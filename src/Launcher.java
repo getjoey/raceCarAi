@@ -9,16 +9,16 @@ public class Launcher {
 
 
 
-        MainFrame frame = new MainFrame();
+       // MainFrame frame = new MainFrame();
 
 
 
-/*
+
         GeneticGameLoop geneticGameLoop = new GeneticGameLoop();
         Thread t = new Thread(geneticGameLoop);
         t.start();
 
         GeneticMainFrame frame = new GeneticMainFrame();
-*/
+
     }
 }

@@ -57,7 +57,7 @@ public class Car {
         carimg = null;
         try {
             //String localDir = System.getProperty("user.dir") + "/";
-            carimg = ImageIO.read(new File("C:/Users/Genesis/Documents/GitHub/RaceCarGame/src/Resources/car.png"));
+            carimg = ImageIO.read(new File("src/Resources/car.png"));
         } catch (IOException e) {
         }
     }

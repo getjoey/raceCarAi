@@ -18,7 +18,7 @@ public class RaceMap {
         try {
             //String localDir = System.getProperty("user.dir") + "/";
             //mapimg = ImageIO.read(new File("C:/Users/Genesis/Documents/GitHub/RaceCarGame/src/Resources/map.png"));
-            mapimg = ImageIO.read(new File("C:/Users/Genesis/Documents/GitHub/RaceCarGame/src/Resources/GeneticMarkedMap.png"));
+            mapimg = ImageIO.read(new File("src/Resources/GeneticMarkedMap.png"));
         } catch (IOException e) {
         }
     }
